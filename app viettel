@@ -1,1 +1,2 @@
 Khi ko vào được app web thì có thể xóa cache để vào hoặc vào bằng tab ẩn danh 
+xóa dữ liệu trên hdfs thì phải drop metadata và tạo lại bảng ko thì sẽ ko query được 
